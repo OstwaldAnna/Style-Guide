@@ -1,0 +1,20 @@
+C:\Users\Asya\source\repos\Style Guide\Style Guide\bin\Debug\Style Guide.exe.config
+C:\Users\Asya\source\repos\Style Guide\Style Guide\bin\Debug\Style Guide.exe
+C:\Users\Asya\source\repos\Style Guide\Style Guide\bin\Debug\Style Guide.pdb
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\Style Guide.csprojAssemblyReference.cache
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\MainWindow.g.cs
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\App.g.cs
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\Style Guide_MarkupCompile.cache
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\Style Guide_MarkupCompile.lref
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\MainWindow.baml
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\Style Guide.g.resources
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\Style_Guide.Properties.Resources.resources
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\Style Guide.csproj.GenerateResource.cache
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\Style Guide.csproj.CoreCompileInputs.cache
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\Style Guide.exe
+C:\Users\Asya\source\repos\Style Guide\Style Guide\obj\Debug\Style Guide.pdb
+C:\Users\Asya\YandexDisk\колледж\Уч. Пр. Макиевский\Style Guide\Style Guide\obj\Debug\Style Guide.csprojAssemblyReference.cache
+C:\Users\Asya\YandexDisk\колледж\Уч. Пр. Макиевский\Style Guide\Style Guide\obj\Debug\App.g.cs
+C:\Users\Asya\YandexDisk\колледж\Уч. Пр. Макиевский\Style Guide\Style Guide\obj\Debug\Style Guide_MarkupCompile.cache
+C:\Users\Asya\YandexDisk\колледж\Уч. Пр. Макиевский\Style Guide\Style Guide\obj\Debug\Style Guide.exe
+C:\Users\Asya\YandexDisk\колледж\Уч. Пр. Макиевский\Style Guide\Style Guide\obj\Debug\Style Guide.pdb
